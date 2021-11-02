@@ -12,4 +12,4 @@
 
 **Figma**
 
-* [Ссылка на репозиторий](https://github.com/Marthau/russian-travel)
+* [Ссылка на gh-pages](https://marthau.github.io/russian-travel/)
