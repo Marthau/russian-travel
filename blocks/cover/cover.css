@@ -1,0 +1,21 @@
+.cover{
+    position: relative;
+}
+
+@media (max-width: 1279px) {
+    .cover{
+        margin: 0 -48px;
+    }
+}
+
+@media (max-width: 768px) {
+    .cover{
+        margin: 0 -24px;
+    }
+}
+
+@media (max-width: 426px) {
+    .cover{
+        margin: 0 -16px;
+    }
+}

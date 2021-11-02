@@ -1,0 +1,18 @@
+.cover__content{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: rgba(42, 44, 47, 0.3);
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+.cover__content:hover{
+    background: rgba(42, 44, 47, 0.8);
+}
