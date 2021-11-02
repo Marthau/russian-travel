@@ -1,0 +1,24 @@
+.locations__paragraph{
+    margin: 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.locations__paragraph + .locations__paragraph{
+    margin-top: 26px;
+}
+
+@media (max-width: 1023px) {
+    .locations__paragraph{
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .locations__paragraph + .locations__paragraph{
+        margin-top: 25px;
+    }
+}

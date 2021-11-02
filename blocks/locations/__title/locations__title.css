@@ -1,0 +1,22 @@
+.locations__title{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    color: #FFFFFF;
+}
+
+@media (max-width: 1023px) {
+    .locations__title{
+        font-size: 42px;
+        line-height: 46px;
+    }
+}
+
+@media (max-width: 767px) {
+    .locations__title{
+        font-size: 32px;
+        line-height: 35px;
+    }
+}
