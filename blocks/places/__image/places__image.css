@@ -1,3 +1,10 @@
 .places__image{
     width: 100%;
 }
+
+@media (max-width: 767px) {
+    .places__image{
+        margin: 0 -16px;
+        width: calc(100% + 32px)
+    }
+}
